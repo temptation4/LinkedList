@@ -119,8 +119,7 @@ This repository is intended for:
 * Reverse Nodes in K Group
 * LRU Cache Implementation
 
-## Author
-
+## 👨‍💻 Author
 Neelu Sahai
 
 Java Developer | Data Structures & Algorithms Enthusiast
